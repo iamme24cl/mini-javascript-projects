@@ -1,0 +1,1 @@
+Mini vanilla JavaScript Projects for practice.
