@@ -20,7 +20,7 @@ async function getrandomUser() {
 
   addData(newUser);
 
-  console.log(newUser);
+  // console.log(newUser);
 }
 
 // Add new obj to data arr
